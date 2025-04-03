@@ -87,13 +87,6 @@ def event_handler() -> None:
             elif event.key == pg.K_DOWN:
                 Tetris.falling_speed = 350 - int(30*sqrt(Tetris.level)+19)
 
-    """
-    pressed = pg.key.get_pressed()
-    if pressed[pg.K_LEFT]:
-        Tetris.shape.move(-1)
-    elif pressed[pg.K_RIGHT]:
-        Tetris.shape.move(+1)
-     """
 
 
 def update_game(dt) -> None:
