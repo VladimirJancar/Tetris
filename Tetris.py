@@ -248,7 +248,7 @@ dt = 1/FPS  # time since last frame.
 
 # Window setup
 WIDTH, HEIGHT = 1280, 770
-CAPTION = 'Tetris 3.0'
+CAPTION = 'Tetris 3.1.1'
 ICON = pg.image.load('images\icon.png')
 SCREEN = pg.display.set_mode((WIDTH, HEIGHT))
 pg.display.set_caption(CAPTION)
