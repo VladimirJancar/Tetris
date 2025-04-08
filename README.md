@@ -2,7 +2,9 @@
 
 A classic Tetris game implemented in Python using the Pygame library. This project was originally developed as a school assignment and has since been improved for readability, modularity, and documentation.
 
-![Project Banner](images/showcase.png)
+## Gameplay Preview
+
+![Project Banner](images/showcase_2.gif)
 
 ## Features
 
@@ -25,10 +27,6 @@ A classic Tetris game implemented in Python using the Pygame library. This proje
 | Pause (controls)    |  ESC  |
 | Cycle color schemes |  C/X  |
 | Toggle ghost piece  |   H   |
-
-## Gameplay Preview
-
-![Project Banner](images/showcase_2.gif)
 
 ## Requirements
 
