@@ -2,7 +2,7 @@
 
 A classic Tetris game implemented in Python using the Pygame library. This project was originally developed as a school assignment and has since been improved for readability, modularity, and documentation.
 
-![Project Banner](images/showcase.png)
+![Project Banner](images/showcase_2.gif)
 
 ## Features
 
@@ -60,6 +60,8 @@ The project still has space to grow. My future considerations include the transl
 - Performance optimization
 - Linux release
 - Mac release
+- resolution scaling
+- settings
 
 ## Legacy versions
 
