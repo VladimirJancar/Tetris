@@ -26,6 +26,10 @@ A classic Tetris game implemented in Python using the Pygame library. This proje
 | Cycle color schemes |  C/X  |
 | Toggle ghost piece  |   H   |
 
+## Gameplay Preview
+
+![Project Banner](images/showcase_2.gif)
+
 ## Requirements
 
 - Python 3.8+
@@ -44,8 +48,6 @@ A classic Tetris game implemented in Python using the Pygame library. This proje
    ```
 
 Or download the *latest release* to get the executable file.
-
-![Project Banner](images/showcase_2.gif)
 
 ## About
 
