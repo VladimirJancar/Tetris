@@ -2,7 +2,7 @@
 
 A classic Tetris game implemented in Python using the Pygame library. This project was originally developed as a school assignment and has since been improved for readability, modularity, and documentation.
 
-![Project Banner](images/showcase_2.gif)
+![Project Banner](images/showcase.png)
 
 ## Features
 
@@ -26,6 +26,8 @@ A classic Tetris game implemented in Python using the Pygame library. This proje
 | Cycle color schemes |  C/X  |
 | Toggle ghost piece  |   H   |
 
+![Project Banner](images/controls.png)
+
 ## Requirements
 
 - Python 3.8+
@@ -44,6 +46,8 @@ A classic Tetris game implemented in Python using the Pygame library. This proje
    ```
 
 Or download the *latest release* to get the executable file.
+
+![Project Banner](images/showcase_2.gif)
 
 ## About
 
@@ -70,3 +74,5 @@ You can find *legacy* folder in the project, which contains the first version fr
 ##  Credits
 
 Originally created as a high school final project. Now open-sourced and improved. All work except the fonts was done by me.
+
+![Project Banner](images/game_over2.png)
