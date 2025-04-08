@@ -58,6 +58,8 @@ The project still has space to grow. My future considerations include the transl
 - High score leaderboard
 - Music and soundeffects
 - Performance optimization
+- Linux release
+- Mac release
 
 ## Legacy versions
 
